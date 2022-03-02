@@ -1,3 +1,0 @@
-0|sara@boffa.it|marco@unito.it|vi faccio la prova a tutti|faccio la prova a tutti|Sun Feb 13 19:31:41 CET 2022|alessiominoi@gmail.com,marco@unito.it
-0|alessiominoi@gmail.com|marco@unito.it|vi faccio la prova a tutti|rispondo a tutti come prova|Sun Feb 13 19:34:48 CET 2022|sara@boffa.it,marco@unito.it
-0|alessiominoi@gmail.com|marco@unito.it|Inoltro messaggio|Da: sara@boffa.it->faccio la prova a tutti|Sun Feb 13 20:37:49 CET 2022|marco@unito.it

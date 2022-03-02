@@ -24,8 +24,10 @@ public class LogMail extends Application {
     }
 
     class Log extends Thread{
-
-        private final String[] user = {"alessiominoi@gmail.com","sara@boffa.it","marco@unito.it","rossi@unito.it"};
+        /*per aggiungere nomi nel campo user bisogna creare un file txt con abc@def.ff nella
+        * directory /resources/mails e nella directory mails successivamente aggiungere la stringa
+        * nella variabile user */
+        private final String[] user = {"marco@unito.it","rossi@unito.it"};
         @Override
         public void run(){
             int i =0;
