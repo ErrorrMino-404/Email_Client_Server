@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Accordion?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="650.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ClientController">
+   <left>
+       <SplitPane dividerPositions="0.30394574599260166" prefHeight="398.0" prefWidth="651.0" BorderPane.alignment="CENTER">
+           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <ListView layoutY="46.0" prefHeight="355.0" prefWidth="195.0" />
+               <Label layoutX="-1.0" layoutY="4.0" prefHeight="18.0" prefWidth="53.0" text="user:" />
+               <Label fx:id="user" layoutX="25.0" layoutY="4.0" prefHeight="18.0" prefWidth="169.0" />
+               <Accordion layoutX="-1.0" layoutY="46.0" prefHeight="353.0" prefWidth="198.0">
+                   <panes>
+                       <TitledPane fx:id="send" animated="false" text="Inviata">
+                           <ListView fx:id="listMailInv" prefHeight="327.0" prefWidth="153.0" />
+                       </TitledPane>
+                       <TitledPane animated="false" prefHeight="26.0" prefWidth="154.0" text="Ricevuta">
+                           <ListView fx:id="listMailRec" prefHeight="327.0" prefWidth="153.0" />
+                       </TitledPane>
+                       <TitledPane fx:id="notify" animated="false" prefHeight="295.0" prefWidth="198.0" text="Notifiche">
+                           <ListView fx:id="listNotify" prefHeight="200.0" prefWidth="200.0" />
+                       </TitledPane>
+                   </panes>
+               </Accordion>
+           </AnchorPane>
+           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="398.0" prefWidth="430.0">
+               <Label layoutX="9.0" layoutY="2.0" prefHeight="18.0" prefWidth="54.0" text="Mittente:" />
+               <Label layoutX="9.0" layoutY="21.0" prefHeight="18.0" prefWidth="72.0" text="Destinatario:" />
+               <Label layoutX="9.0" layoutY="39.0" prefHeight="18.0" prefWidth="70.0" text="Argomento:" />
+               <Label layoutX="9.0" layoutY="55.0" prefHeight="18.0" prefWidth="38.0" text="Data:" />
+               <Label fx:id="mittente" layoutX="58.0" layoutY="2.0" prefHeight="18.0" prefWidth="382.0" />
+               <Label fx:id="destinatario" layoutX="79.0" layoutY="21.0" prefHeight="18.0" prefWidth="362.0" />
+               <Label fx:id="argomento" layoutX="76.0" layoutY="39.0" prefHeight="18.0" prefWidth="366.0" />
+               <Label fx:id="date" layoutX="40.0" layoutY="55.0" prefHeight="18.0" prefWidth="402.0" />
+               <Label fx:id="textMail" layoutX="10.0" layoutY="77.0" prefHeight="264.0" prefWidth="393.0" />
+               <Button fx:id="rem" layoutX="10.0" layoutY="358.0" onAction="#handleRemoveEmail" prefHeight="26.0" prefWidth="83.0" text="Elimina" />
+               <Button fx:id="add" layoutX="103.0" layoutY="358.0" onAction="#handleAddEmail" prefHeight="26.0" prefWidth="88.0" text="Nuova Mail" />
+               <Button fx:id="forward" layoutX="196.0" layoutY="358.0" onAction="#handleForwardEmail" prefHeight="26.0" prefWidth="54.0" text="Inoltra" />
+               <Button fx:id="reply" layoutX="257.0" layoutY="358.0" onAction="#handleReplyEmail" prefHeight="26.0" prefWidth="64.0" text="Risposta" />
+               <Button fx:id="reply_all" layoutX="332.0" layoutY="358.0" onAction="#handleReplyAllEmail" prefHeight="26.0" prefWidth="98.0" text="Rispondi a tutti" />
+           </AnchorPane>
+       </SplitPane>
+   </left>
+</BorderPane>

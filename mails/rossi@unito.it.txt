@@ -1,0 +1,6 @@
+0|rossi@unito.it|marco@unito.it|facciamo la prova di invio a tutti|prova invio|Mon Feb 14 12:21:45 CET 2022|marco@unito.it,alessiominoi@gmail.com,sara@boffa.it
+0|rossi@unito.it|alessiominoi@gmail.com|facciamo la prova di invio a tutti|prova invio|Mon Feb 14 12:21:46 CET 2022|marco@unito.it,alessiominoi@gmail.com,sara@boffa.it
+0|rossi@unito.it|sara@boffa.it|facciamo la prova di invio a tutti|prova invio|Mon Feb 14 12:21:46 CET 2022|marco@unito.it,alessiominoi@gmail.com,sara@boffa.it
+0|alessiominoi@gmail.com|rossi@unito.it|facciamo la prova di invio a tutti|ciao belli|Mon Feb 14 12:22:19 CET 2022|marco@unito.it,rossi@unito.it,sara@boffa.it
+0|rossi@unito.it|sara@boffa.it|inoltro nuovo messaggio|Da: alessiominoi@gmail.com->ciao belli|Mon Feb 14 12:26:01 CET 2022|sara@boffa.it,marco@unito.it
+0|rossi@unito.it|marco@unito.it|inoltro nuovo messaggio|Da: alessiominoi@gmail.com->ciao belli|Mon Feb 14 12:26:01 CET 2022|sara@boffa.it,marco@unito.it

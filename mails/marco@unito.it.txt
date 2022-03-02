@@ -1,0 +1,19 @@
+0|sara@boffa.it|marco@unito.it|vi faccio la prova a tutti|faccio la prova a tutti|Sun Feb 13 19:31:41 CET 2022|alessiominoi@gmail.com,marco@unito.it
+0|alessiominoi@gmail.com|marco@unito.it|vi faccio la prova a tutti|rispondo a tutti come prova|Sun Feb 13 19:34:48 CET 2022|sara@boffa.it,marco@unito.it
+0|alessiominoi@gmail.com|marco@unito.it|Inoltro messaggio|Da: sara@boffa.it->faccio la prova a tutti|Sun Feb 13 20:37:49 CET 2022|marco@unito.it
+0|marco@unito.it|sara@boffa.it|ciao||Mon Feb 14 01:38:05 CET 2022|sara@boffa.it
+0|marco@unito.it|alessiominoi@gmail.com|spaceman|sapceman|Mon Feb 14 01:48:39 CET 2022|alessiominoi@gmail.com
+0|sara@boffa.it|marco@unito.it|ciao sto provando offline|ciao prova|Mon Feb 14 01:51:15 CET 2022|marco@unito.it
+0|marco@unito.it|alessiominoi@gmail.com|prova invio|prova invio|Mon Feb 14 03:37:31 CET 2022|alessiominoi@gmail.com
+0|marco@unito.it|alessiominoi@gmail.com|invio|controlla |Mon Feb 14 03:38:10 CET 2022|alessiominoi@gmail.com
+0|alessiominoi@gmail.com|marco@unito.it|bella perte|bella|Mon Feb 14 03:39:24 CET 2022|marco@unito.it
+0|sara@boffa.it|marco@unito.it|invio|invio|Mon Feb 14 03:42:13 CET 2022|marco@unito.it
+0|rossi@unito.it|marco@unito.it|facciamo la prova di invio a tutti|prova invio|Mon Feb 14 12:21:45 CET 2022|marco@unito.it,alessiominoi@gmail.com,sara@boffa.it
+0|alessiominoi@gmail.com|marco@unito.it|facciamo la prova di invio a tutti|ciao belli|Mon Feb 14 12:22:19 CET 2022|marco@unito.it,rossi@unito.it,sara@boffa.it
+0|rossi@unito.it|marco@unito.it|inoltro nuovo messaggio|Da: alessiominoi@gmail.com->ciao belli|Mon Feb 14 12:26:01 CET 2022|sara@boffa.it,marco@unito.it
+0|alessiominoi@gmail.com|marco@unito.it|ciao|ciao|Mon Feb 14 14:30:32 CET 2022|marco@unito.it
+0|marco@unito.it|alessiominoi@gmail.com|ciao come state|ciao|Mon Feb 14 14:34:29 CET 2022|alessiominoi@gmail.com,sara@boffa.it
+0|marco@unito.it|sara@boffa.it|ciao come state|ciao|Mon Feb 14 14:34:29 CET 2022|alessiominoi@gmail.com,sara@boffa.it
+0|alessiominoi@gmail.com|marco@unito.it|ciao come state|bene te?|Mon Feb 14 14:35:06 CET 2022|marco@unito.it
+0|alessiominoi@gmail.com|marco@unito.it|ciao come state|ciao tutti|Mon Feb 14 14:35:56 CET 2022|marco@unito.it,sara@boffa.it
+0|sara@boffa.it|marco@unito.it|inoltro nuovo messaggio|Da: alessiominoi@gmail.com->ciao tutti|Mon Feb 14 14:36:35 CET 2022|marco@unito.it
